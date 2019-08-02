@@ -9,4 +9,6 @@ Ever need to find out associations while inside a rails console? Rails has a gre
 User.reflect_on_all_associations
 ```
 
+Relevent Link: [Rails API Docs](https://api.rubyonrails.org/classes/ActiveRecord/Reflection/ClassMethods.html#method-i-reflect_on_all_associations)
+
 Tags: Rails, Ruby, general
